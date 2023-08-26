@@ -41,5 +41,5 @@ https://www.youtube.com/watch?v=Xjlcb6XT8V0
 
 ## Screenshots
 
-![](https://www.youtube.com/watch?v=Xjlcb6XT8V0)
+![image](https://github.com/shivdeepbisurkar/Projects/blob/main/Student%20Assistance%20App/Context%20diagram.png)
 
