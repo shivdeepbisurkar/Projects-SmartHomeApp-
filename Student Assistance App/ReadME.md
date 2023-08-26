@@ -39,7 +39,10 @@ The Student Assist App offers a wide range of features to empower students on th
 https://www.youtube.com/watch?v=Xjlcb6XT8V0
 
 
-## Screenshots
+## Context Diagram
 
-![](https://www.youtube.com/watch?v=Xjlcb6XT8V0)
+![image](https://github.com/shivdeepbisurkar/Projects/blob/main/Student%20Assistance%20App/Context%20diagram.png)
 
+## Context Diagram
+
+![image](https://github.com/shivdeepbisurkar/Projects/blob/main/Student%20Assistance%20App/-%20UI%20and%20User%20Navigation.png)
