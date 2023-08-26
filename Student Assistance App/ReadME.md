@@ -1,7 +1,7 @@
 
 # Welcome to Student Assist App 🚀
 
-The Student Assist App is a revolutionary project aimed at enhancing the academic and extracurricular experience for students. This app serves as a comprehensive tool to facilitate collaboration, networking, career planning, and academic success.
+The "Student Assist" app project aims to design and prototype an application that caters to the needs of students, providing valuable and usable functionalities. The primary objective is to ensure a high-quality user experience by delivering features that are robust, portable, scalable, evolvable, and secure in terms of maintaining user privacy and data integrity. The app's development will be focused on addressing these aspects to create a comprehensive solution that enhances student engagement and support.
 
 **Project Overview :**
 
