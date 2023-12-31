@@ -1,6 +1,5 @@
 
-# SmartHome Application 
-##(Assignment_2)
+# SmartHome Application (Assignment_2)
 
 ## Prerequisites
 
