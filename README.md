@@ -1,11 +1,10 @@
-
 # SmartHome Application (Assignment_2)
 
 ## Prerequisites
 
-Before proceeding with the installation, make sure your system meets the following prerequisites:
+Before proceeding with the installation, ensure that your system meets the following prerequisites:
 
-1. **Java Development Kit (JDK):** Ensure that you have Java SE Development Kit (JDK) 8 or higher installed on your system.
+1. **Java Development Kit (JDK):** Make sure you have Java SE Development Kit (JDK) 8 or higher installed on your system.
 
 2. **Apache Tomcat:** Download and install Apache Tomcat from the official website.
 
@@ -40,3 +39,12 @@ To run the application, follow these steps:
 2. Open a web browser and navigate to `localhost:2525` (use the port on which you installed your Tomcat).
 3. Enter your username and password, then click the "Sign In" button.
 4. Click on "Assignment_2" to access the application.
+
+## Demo
+
+For a visual demonstration, check the following YouTube links:
+
+1. [Demo Video 1](https://www.youtube.com/watch?v=ME13pvOy9ws)
+2. [Demo Video 2](https://www.youtube.com/watch?v=GxQkelwB-vs)
+
+For additional information, refer to the project's output UI screenshot in the "output.pdf" file, and find MySQL queries in the "Query.sql" file.
